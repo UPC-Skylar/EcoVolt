@@ -23,7 +23,7 @@
 📂 Ecovolt/
 ├── README.md
 ├── manifest.json
-├── public/
+├── docs/
 │   ├── index.html
 │   └── login.html
 └── src/
